@@ -1,0 +1,7 @@
+interface:
+  display_name: "BIT Academic Slides · 北理工绿白学术汇报"
+  short_description: "制作北理工绿白学术汇报PPT，保留原生版式、可编辑图表和演讲备注"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-bit-academic-slides，按北理工绿白学术风格，将我提供的资料制作成PPT，并附演讲备注。"
+policy:
+  allow_implicit_invocation: true
