@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "prepared_date": "2026-11-24",
+  "public_package": "bit-academic-slides",
+  "source": "Locally retained BIT academic template skill; public derivative with generic examples",
+  "personal_fields_removed": true,
+  "original_local_skill_modified": false,
+  "assets": {
+    "layout-scaffold.pptx": "ca6074b4dd551f463477f24ef3688e410b027fcc4cac3a1e4e1e7dd7390141e6",
+    "reference.pptx": "50ba257fc9754f6a29dc761e7db1732d8821f7dbbacd8f25fa7d519503e723eb"
+  }
+}
