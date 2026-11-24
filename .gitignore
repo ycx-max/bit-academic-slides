@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+draft*.pptx
+~$*.pptx
+.DS_Store
